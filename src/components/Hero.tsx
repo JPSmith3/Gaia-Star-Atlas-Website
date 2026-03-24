@@ -7,7 +7,7 @@ export function Hero() {
       <div className="relative">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-white/10 bg-white/5 text-sm text-white/60 mb-8">
           <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
-          Available on iPhone, iPad, Mac &amp; Vision Pro
+          Available on iPhone &amp; iPad
         </div>
 
         <h1 className="text-5xl sm:text-7xl font-bold tracking-tight leading-[1.1] max-w-3xl mx-auto">
